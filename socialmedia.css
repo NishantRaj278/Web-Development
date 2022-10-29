@@ -1,0 +1,37 @@
+#style1{
+
+    background-color: black;
+    color:aquamarine;
+    font-weight: 900;
+    font-size: x-large;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+#style2{
+
+    background-color: brown;
+    color:tomato;
+    font-weight: lighter;
+    font-size: small;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.style3{
+
+
+    color:blue;
+    font-weight: bold;
+    font-size: medium;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+
+div{
+
+    background-color: beige;
+    color: purple;
+    font-weight: bolder;
+    font-size: larger;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
